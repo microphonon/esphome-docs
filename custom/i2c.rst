@@ -27,7 +27,10 @@ them publish values.
         Wire.write(0x42);
         Wire.endTransmission();
       }
-    };
+    }
+
+The simple example above writes the same value to a register in a continuous loop. It can be useful 
+to update register values from the dashboard. 
 
 See Also
 --------
