@@ -90,6 +90,7 @@ Custom Components & Code
 - `Winsen ZE08-CH2O (Formaldehyde sensor) custom component <https://gist.github.com/cretep/f96606dc6a4eae0d85993d6085959220>`__ by :ghuser:`cretep`
 - `ZclMqttBridge custom component <https://github.com/HyperReap/zcl_mqtt_bridge>`__ by :ghuser:`HyperReap`
 - `Custom esp32 media player and notifier <https://www.printables.com/model/327708-esphome-nodemcu-esp32-media-player>`__ by :ghuser:`rananna`
+- `Custom I2C Component: Interfacing with the Dashboard <https://github.com/microphonon/acoustic-leak-detector/blob/main/Home_Assistant/i2c.md>`__ by :ghuser:`microphonon`
 
 Sample Configurations
 ---------------------
